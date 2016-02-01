@@ -10,6 +10,9 @@ small brick of length 1. Big of 5. Aim is to create brick of goal lenght using s
 
 """
 def make_bricks(small, big, goal):
+     """
+          Definition
+     """
      if (goal//5 <=big) and goal-5*(goal//5)<=small: return True
      elif (goal//5 >= big) and goal-5*big<=small: return True
      return False
