@@ -2,6 +2,7 @@
 """
 Program to find word frequency
 Author: Shruti Thakkar
+Version: V1
 """
 import sys
 
