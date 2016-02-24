@@ -1,6 +1,7 @@
 #!/usr/bin/python
 """
 Program to find word frequency
+Author: Shruti Thakkar
 """
 import sys
 
